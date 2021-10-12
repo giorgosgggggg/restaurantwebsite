@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/restaurantwebsite/static/css/main.c455b26c.chunk.css",
+    "main.js": "/restaurantwebsite/static/js/main.e90cd8ca.chunk.js",
+    "main.js.map": "/restaurantwebsite/static/js/main.e90cd8ca.chunk.js.map",
+    "runtime-main.js": "/restaurantwebsite/static/js/runtime-main.4aaa750e.js",
+    "runtime-main.js.map": "/restaurantwebsite/static/js/runtime-main.4aaa750e.js.map",
+    "static/js/2.58a90089.chunk.js": "/restaurantwebsite/static/js/2.58a90089.chunk.js",
+    "static/js/2.58a90089.chunk.js.map": "/restaurantwebsite/static/js/2.58a90089.chunk.js.map",
+    "static/js/3.9a9ce880.chunk.js": "/restaurantwebsite/static/js/3.9a9ce880.chunk.js",
+    "static/js/3.9a9ce880.chunk.js.map": "/restaurantwebsite/static/js/3.9a9ce880.chunk.js.map",
+    "index.html": "/restaurantwebsite/index.html",
+    "static/css/main.c455b26c.chunk.css.map": "/restaurantwebsite/static/css/main.c455b26c.chunk.css.map",
+    "static/js/2.58a90089.chunk.js.LICENSE.txt": "/restaurantwebsite/static/js/2.58a90089.chunk.js.LICENSE.txt",
+    "static/media/MultiplePizzas.3f181eaf.jpg": "/restaurantwebsite/static/media/MultiplePizzas.3f181eaf.jpg",
+    "static/media/background.94086b64.jpg": "/restaurantwebsite/static/media/background.94086b64.jpg",
+    "static/media/expensive.fcb14c5a.jpg": "/restaurantwebsite/static/media/expensive.fcb14c5a.jpg",
+    "static/media/margherita.f29b694a.jpg": "/restaurantwebsite/static/media/margherita.f29b694a.jpg",
+    "static/media/pepperoni.d5e6059c.jpg": "/restaurantwebsite/static/media/pepperoni.d5e6059c.jpg",
+    "static/media/pineapple.ea399bd8.jpg": "/restaurantwebsite/static/media/pineapple.ea399bd8.jpg",
+    "static/media/pizzaLeft.15705092.jpeg": "/restaurantwebsite/static/media/pizzaLeft.15705092.jpeg",
+    "static/media/special.f22afdd3.jpg": "/restaurantwebsite/static/media/special.f22afdd3.jpg",
+    "static/media/vegan.87de5433.jpg": "/restaurantwebsite/static/media/vegan.87de5433.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aaa750e.js",
+    "static/js/2.58a90089.chunk.js",
+    "static/css/main.c455b26c.chunk.css",
+    "static/js/main.e90cd8ca.chunk.js"
+  ]
+}
